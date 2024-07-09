@@ -7,7 +7,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
                     level=logging.INFO)
 
 UPSTREAM_REPO = 'https://github.com/actchanthar/COMPRESSING'
-UPSTREAM_BRANCH = 'master'
+UPSTREAM_BRANCH = 'main'
 
 if UPSTREAM_REPO is not None:
     if ospath.exists('.git'):
