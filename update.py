@@ -6,8 +6,8 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
                     handlers=[logging.FileHandler('log.txt'), logging.StreamHandler()],
                     level=logging.INFO)
 
-UPSTREAM_REPO = 'https://github.com/actchanthar/CIDCOMPRESSING'
-UPSTREAM_BRANCH = 'main'
+UPSTREAM_REPO = 'https://github.com/actchanthar/COMPRESSING'
+UPSTREAM_BRANCH = 'master'
 
 if UPSTREAM_REPO is not None:
     if ospath.exists('.git'):
