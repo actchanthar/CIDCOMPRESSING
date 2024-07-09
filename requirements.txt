@@ -6,6 +6,8 @@ hachoir
 ffmpeg-python
 beautifulsoup4
 bs4
+urllib3
+six
 
 # DDL
 pySmartDL
