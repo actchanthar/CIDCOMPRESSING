@@ -23,7 +23,7 @@ js2py
 cfscrape
 lk21
 lxml
-urllib3==1.26
+urllib3==1.26.6
 
 # Google Drive
 google-api-core
