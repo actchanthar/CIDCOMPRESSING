@@ -6,7 +6,7 @@ hachoir
 ffmpeg-python
 beautifulsoup4
 bs4
-urllib3
+urllib3==1.26.15
 six
 
 # DDL
@@ -23,13 +23,11 @@ js2py
 cfscrape
 lk21
 lxml
-urllib3==1.26
 
 # Google Drive
 google-api-core
 google-auth
 oauth2client<4.0.0
-google
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
