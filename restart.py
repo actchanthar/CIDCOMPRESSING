@@ -12,7 +12,7 @@ logging.basicConfig(
 )
 
 # Define the upstream repository and branch
-UPSTREAM_REPO = 'https://github.com/actchanthar/CIDCOMPRESSING'
+UPSTREAM_REPO = 'https://github.com/actchanthar/COMPRESSING'
 UPSTREAM_BRANCH = 'main'
 
 if UPSTREAM_REPO:
